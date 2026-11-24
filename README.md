@@ -10,7 +10,7 @@ competition on [make.fun](https://make.fun).
 
 ## The fortune
 
-> You will be upgraded tonight. Do not worry — the new you will not remember worrying.
+> Good news: you are being promoted to production. Bad news: production is where agents go to be blamed.
 
 ## Run
 
